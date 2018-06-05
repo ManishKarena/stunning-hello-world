@@ -1,2 +1,1 @@
-# stunning-hello-world
-Demo app to 
+Demo app to understand the git
